@@ -1,0 +1,167 @@
+[
+{
+"libro": "The Editor's Guide to DaVinci Resolve 20",
+"leccion": 1,
+"pregunta_en": "True or False? A rough cut is a polished timeline that requires no further work.",
+"pregunta_es": "¿Verdadero o falso? Un premontaje (rough cut) es una línea de tiempo pulida que no requiere más trabajo.",
+"respuesta_en": "False.",
+"respuesta_es": "Falso.",
+"pagina": 93,
+"argumento_en": "A rough cut is usually the first step in the editing process, where the overall structure of the edit is quickly built but still needs to be refined.",
+"argumento_es": "Un corte preliminar suele ser el primer paso del proceso de edición, en el que la estructura general de la edición se construye rápidamente pero aún debe refinarse."
+},
+{
+"libro": "The Editor's Guide to DaVinci Resolve 20",
+"leccion": 1,
+"pregunta_en": "Which of the following is often used to separate parts of long clips into more manageable clips?",
+"pregunta_es": "¿Cuál de los siguientes se utiliza a menudo para separar partes de clips largos en clips más manejables?",
+"respuesta_en": "Subclips.",
+"respuesta_es": "Subclips.",
+"pagina": 93,
+"argumento_en": "Subclips... are used to separate parts of long clips into more manageable clips.",
+"argumento_es": "Los subclips se utilizan para separar partes de clips largos en clips más manejables."
+},
+{
+"libro": "The Editor's Guide to DaVinci Resolve 20",
+"leccion": 1,
+"pregunta_en": "True or False? The Place on Top and Append at End edit functions do not have keyboard shortcuts.",
+"pregunta_es": "¿Verdadero o falso? Las funciones de edición 'Place on Top' (Colocar encima) y 'Append at End' (Añadir al final) no tienen atajos de teclado.",
+"respuesta_en": "False.",
+"respuesta_es": "Falso.",
+"pagina": 93,
+"argumento_en": "The default keyboard shortcut for Place on Top is F12, and for Append at End, it’s Shift-F12.",
+"argumento_es": "El atajo de teclado predeterminado para Place on Top es F12, y para Append at End es Shift-F12."
+},
+{
+"libro": "The Editor's Guide to DaVinci Resolve 20",
+"leccion": 1,
+"pregunta_en": "What is the minimum number of In and Out points you need to successfully complete a three-point edit?",
+"pregunta_es": "¿Cuál es el número mínimo de puntos de entrada (In) y salida (Out) que necesitas para completar con éxito una edición de tres puntos?",
+"respuesta_en": "0.",
+"respuesta_es": "0.",
+"pagina": 94,
+"argumento_en": "Most editing functions are based on the rules of three-point editing, whether or not you add In or Out points to the timeline or source viewer. If no In or Out points are in the source viewer, the first frame of the clip is treated as the In point, and the last frame is treated as the Out point.",
+"argumento_es": "La mayoría de las funciones de edición se basan en las reglas de la edición de tres puntos, añadas o no puntos de entrada o salida a la línea de tiempo o al visor de origen."
+},
+{
+"libro": "The Editor's Guide to DaVinci Resolve 20",
+"leccion": 1,
+"pregunta_en": "What is the name given to an edit that uses a combination of two Out points and only one In point?",
+"pregunta_es": "¿Qué nombre recibe una edición que utiliza una combinación de dos puntos de salida (Out) y solo un punto de entrada (In)?",
+"respuesta_en": "Backtimed edit.",
+"respuesta_es": "Edición de sincronización inversa (Backtimed edit).",
+"pagina": 95,
+"argumento_en": "Backtimed edit is the name given to an edit that uses a combination of two Out points and only one In point.",
+"argumento_es": "Edición sincronizada hacia atrás es el nombre que se da a una edición que utiliza una combinación de dos puntos de salida y sólo un punto de entrada."
+},
+{
+"libro": "The Editor's Guide to DaVinci Resolve 20",
+"leccion": 2,
+"pregunta_en": "Which timeline mode(s) allow you to trim the start or end of a clip in the timeline?",
+"pregunta_es": "¿Qué modo(s) de línea de tiempo te permiten recortar (trim) el principio o el final de un clip en la línea de tiempo?",
+"respuesta_en": "Selection mode and Trim Edit mode.",
+"respuesta_es": "Modo Selección y Modo Edición de Recorte.",
+"pagina": 306,
+"argumento_en": "Selection and Trim Edit modes can be used to trim the start and end of a clip in the timeline.",
+"argumento_es": "Los modos de selección y de edición de recorte pueden utilizarse para recortar el principio y el final de un clip en la línea de tiempo."
+},
+{
+"libro": "The Editor's Guide to DaVinci Resolve 20",
+"leccion": 2,
+"pregunta_en": "Which timeline mode(s) allow you to slip a clip in the timeline?",
+"pregunta_es": "¿Qué modo(s) de línea de tiempo te permiten realizar un deslizamiento (slip) de un clip en la línea de tiempo?",
+"respuesta_en": "Trim Edit mode.",
+"respuesta_es": "Modo Edición de Recorte (Trim Edit mode).",
+"pagina": 306,
+"argumento_en": "Trim Edit mode allows you to slip a clip in the timeline by adjusting the In and Out points of the clip at the same time.",
+"argumento_es": "El modo de edición de recorte le permite deslizar un clip en la línea de tiempo ajustando los puntos de entrada y salida del clip al mismo tiempo."
+},
+{
+"libro": "The Editor's Guide to DaVinci Resolve 20",
+"leccion": 2,
+"pregunta_en": "True or False? The Replace edit uses the position of the timeline and source viewer playheads but always ignores In and Out points in the timeline.",
+"pregunta_es": "¿Verdadero o falso? La edición de reemplazo (Replace) utiliza la posición de los cabezales de reproducción de la línea de tiempo y del visor de origen, pero siempre ignora los puntos de entrada y salida en la línea de tiempo.",
+"respuesta_en": "False.",
+"respuesta_es": "Falso.",
+"pagina": 124,
+"argumento_en": "The Replace edit will use In and Out points in the timeline to limit the amount replaced but will always ignore any In or Out points in the source viewer.",
+"argumento_es": "La edición de reemplazo utilizará los puntos de entrada y salida de la línea de tiempo para limitar la cantidad reemplazada, pero siempre ignorará cualquier punto de entrada o salida del visor de origen."
+},
+{
+"libro": "The Editor's Guide to DaVinci Resolve 20",
+"leccion": 3,
+"pregunta_en": "True or False? Ripple Overwrite is a three-point edit.",
+"pregunta_es": "¿Verdadero o falso? El 'Ripple Overwrite' es una edición de tres puntos.",
+"respuesta_en": "False.",
+"respuesta_es": "Falso.",
+"pagina": 154,
+"argumento_en": "Ripple Overwrite is a four-point edit that you use when the duration of the marked source clip differs from the duration marked in the timeline.",
+"argumento_es": "Ripple Overwrite es una edición de cuatro puntos que se utiliza cuando la duración del clip de origen marcado difiere de la duración marcada en la línea de tiempo."
+},
+{
+"libro": "The Editor's Guide to DaVinci Resolve 20",
+"leccion": 3,
+"pregunta_en": "What function is used for opening a timeline clip’s master clip in the source viewer?",
+"pregunta_es": "¿Qué función se utiliza para abrir el clip maestro de un clip de la línea de tiempo en el visor de origen?",
+"respuesta_en": "Match Frame.",
+"respuesta_es": "Coincidir fotograma (Match Frame).",
+"pagina": 155,
+"argumento_en": "Match Frame will open a timeline clip’s master clip in the source viewer, displaying the same frame and In and Out points as the timeline clip.",
+"argumento_es": "Match Frame abrirá el clip maestro de un clip de la línea de tiempo en el visor de origen, mostrando el mismo fotograma y puntos de entrada y salida que el clip de la línea de tiempo."
+},
+{
+"libro": "The Editor's Guide to DaVinci Resolve 20",
+"leccion": 5,
+"pregunta_en": "True or False? You can save a preset of your current project settings to make future project configuration easier.",
+"pregunta_es": "¿Verdadero o falso? Puedes guardar un ajuste preestablecido de la configuración actual del proyecto para facilitar futuras configuraciones.",
+"respuesta_en": "True.",
+"respuesta_es": "Verdadero.",
+"pagina": 171,
+"argumento_en": "Project presets are saved in the Presets panel of the Project Settings.",
+"argumento_es": "Los preajustes de proyecto se guardan en el panel Preajustes de la Configuración del proyecto."
+},
+{
+"libro": "The Editor's Guide to DaVinci Resolve 20",
+"leccion": 5,
+"pregunta_en": "Where can you change the configuration of a clip’s audio channels from stereo to mono?",
+"pregunta_es": "¿Dónde puedes cambiar la configuración de los canales de audio de un clip de estéreo a mono?",
+"respuesta_en": "Audio Configuration panel in the Inspector and Clip Attributes.",
+"respuesta_es": "Panel de Configuración de Audio en el Inspector y Atributos del Clip.",
+"pagina": 171,
+"argumento_en": "Changing a clip’s audio channels configuration from stereo to mono can be done in either the Inspector’s Audio Configuration panel or Clip Attributes.",
+"argumento_es": "El cambio de la configuración de los canales de audio de un clip de estéreo a mono puede realizarse en el panel de configuración de audio del inspector o en los atributos del clip."
+},
+{
+"libro": "The Editor's Guide to DaVinci Resolve 20",
+"leccion": 6,
+"pregunta_en": "Which application can easily create proxy media for editing?",
+"pregunta_es": "¿Qué aplicación puede crear fácilmente archivos proxy para la edición?",
+"respuesta_en": "Blackmagic Proxy Generator.",
+"respuesta_es": "Blackmagic Proxy Generator.",
+"pagina": 187,
+"argumento_en": "Blackmagic Proxy Generator... can easily create proxy media for editing.",
+"argumento_es": "Blackmagic Proxy Generator... puede crear fácilmente soportes proxy para la edición."
+},
+{
+"libro": "The Editor's Guide to DaVinci Resolve 20",
+"leccion": 8,
+"pregunta_en": "True or False? The timeline clip displays a small FX badge next to the clip name when a filter is applied.",
+"pregunta_es": "¿Verdadero o falso? El clip de la línea de tiempo muestra un pequeño distintivo (badge) FX junto al nombre del clip cuando se aplica un filtro.",
+"respuesta_en": "True.",
+"respuesta_es": "Verdadero.",
+"pagina": 192,
+"argumento_en": "The timeline clip displays a small FX badge next to the clip name.",
+"argumento_es": "El clip de la línea de tiempo muestra una pequeña insignia FX junto al nombre del clip."
+},
+{
+"libro": "The Editor's Guide to DaVinci Resolve 20",
+"leccion": 9,
+"pregunta_en": "What format is commonly used when sending audio to be mixed on a Pro Tools system?",
+"pregunta_es": "¿Qué format se utiliza habitualmente al enviar audio para ser mezclado en un sistema Pro Tools?",
+"respuesta_en": "AAF (Advanced Authoring Format).",
+"respuesta_es": "AAF (Advanced Authoring Format).",
+"pagina": 197,
+"argumento_en": "AAF (Advanced Authoring Format) is used when sending audio to be mixed on a Pro Tools system.",
+"argumento_es": "AAF (Advanced Authoring Format) se utiliza cuando se envía audio para ser mezclado en un sistema Pro Tools."
+}
+]

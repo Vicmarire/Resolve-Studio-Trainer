@@ -1,0 +1,222 @@
+[
+{
+"libro": "Advanced Visual Effects in DaVinci Resolve 20",
+"leccion": 2,
+"pregunta_en": "True or False? The Delta Keyer can handle both matte creation and spill suppression.",
+"pregunta_es": "¿Verdadero o falso? El Delta Keyer puede encargarse tanto de la creación de máscaras como de la supresión de contaminación de color (spill).",
+"respuesta_en": "True.",
+"respuesta_es": "Verdadero.",
+"pagina": 65,
+"argumento_en": "The Delta Keyer can handle both matte creation and spill suppression.",
+"argumento_es": "El Delta Keyer puede manejar tanto la creación de mates como la supresión de contaminación de color [1]."
+},
+{
+"libro": "Advanced Visual Effects in DaVinci Resolve 20",
+"leccion": 2,
+"pregunta_en": "What happens when you set the Delta Keyer’s Solid Replace mode to “Source”?",
+"pregunta_es": "¿Qué sucede cuando estableces el modo Solid Replace del Delta Keyer en “Source”?",
+"respuesta_en": "The original colors from the source clip are used, leaving green areas unchanged.",
+"respuesta_es": "Se utilizan los colores originales del clip de origen, dejando las áreas verdes sin cambios.",
+"pagina": 65,
+"argumento_en": "The original colors from the source clip are used, leaving green areas unchanged.",
+"argumento_es": "Se utilizan los colores originales del clip fuente, dejando las áreas verdes sin cambios [2]."
+},
+{
+"libro": "Advanced Visual Effects in DaVinci Resolve 20",
+"leccion": 2,
+"pregunta_en": "True or False? A light wrap helps blend the foreground and background by overlapping the edges of the keyed subject with the colors of the background.",
+"pregunta_es": "¿Verdadero o falso? Una envoltura de luz (light wrap) ayuda a mezclar el primer plano y el fondo superponiendo los bordes del sujeto recortado con los colores del fondo.",
+"respuesta_en": "True.",
+"respuesta_es": "Verdadero.",
+"pagina": 65,
+"argumento_en": "A light wrap helps blend the foreground and background by overlapping the edges of the keyed subject with the colors of the background.",
+"argumento_es": "Un envoltorio de luz ayuda a mezclar el primer plano y el fondo superponiendo los bordes del sujeto con los colores del fondo [2]."
+},
+{
+"libro": "Advanced Visual Effects in DaVinci Resolve 20",
+"leccion": 2,
+"pregunta_en": "What is the advantage of using a Camera3D node or Projection3D node instead of directly mapping a texture onto the Shape3D windshield?",
+"pregunta_es": "¿Cuál es la ventaja de usar un nodo Camera3D o Projection3D en lugar de mapear directamente una textura sobre el parabrisas Shape3D?",
+"respuesta_en": "It warps the reflection naturally based on the glass curvature.",
+"respuesta_es": "Deforma el reflejo de forma natural basándose en la curvatura del cristal.",
+"pagina": 66,
+"argumento_en": "It warps the reflection naturally based on the glass curvature.",
+"argumento_es": "Deforma el reflejo de forma natural en función de la curvatura del cristal [2]."
+},
+{
+"libro": "Advanced Visual Effects in DaVinci Resolve 20",
+"leccion": 2,
+"pregunta_en": "When setting up a Camera3D node for projection mapping, what must you enable?",
+"pregunta_es": "Al configurar un nodo Camera3D para el mapeo de proyección, ¿qué debes activar?",
+"respuesta_en": "Camera Projection.",
+"respuesta_es": "Proyección de cámara (Camera Projection).",
+"pagina": 66,
+"argumento_en": "Camera Projection.",
+"argumento_es": "Camera Projection (Proyección de cámara) [2]."
+},
+{
+"libro": "Advanced Visual Effects in DaVinci Resolve 20",
+"leccion": 3,
+"pregunta_en": "True or False? The Magic Mask tool in DaVinci Resolve 20 Studio uses AI to create motion-tracked masks, eliminating the need for manual rotoscoping.",
+"pregunta_es": "¿Verdadero o falso? La herramienta Magic Mask en DaVinci Resolve 20 Studio utiliza IA para crear máscaras con seguimiento de movimiento, eliminando la necesidad de rotoscopia manual.",
+"respuesta_en": "True.",
+"respuesta_es": "Verdadero.",
+"pagina": 69,
+"argumento_en": "The Magic Mask tool in DaVinci Resolve 20 Studio uses AI to create motion-tracked masks, eliminating the need for manual rotoscoping.",
+"argumento_es": "La herramienta Magic Mask en DaVinci Resolve 20 Studio utiliza IA para crear máscaras con seguimiento de movimiento, eliminando la necesidad de rotoscopia manual [3]."
+},
+{
+"libro": "Advanced Visual Effects in DaVinci Resolve 20",
+"leccion": 3,
+"pregunta_en": "True or False? The Underlay tool in Fusion affects the final composition by modifying the visual elements within the node graph.",
+"pregunta_es": "¿Verdadero o falso? La herramienta Underlay en Fusion afecta a la composición final al modificar los elementos visuales dentro del grafo de nodos.",
+"respuesta_en": "False. The Underlay tool in Fusion does not affect the final composition.",
+"respuesta_es": "Falso. La herramienta Underlay en Fusion no afecta a la composición final.",
+"pagina": 69,
+"argumento_en": "The Underlay tool in Fusion does not affect the final composition.",
+"argumento_es": "La herramienta Underlay en Fusion no afecta a la composición final [3]."
+},
+{
+"libro": "Advanced Visual Effects in DaVinci Resolve 20",
+"leccion": 3,
+"pregunta_en": "True or False? The pEmitter node in Fusion must always use the default sphere shape for emitting particles.",
+"pregunta_es": "¿Verdadero o falso? El nodo pEmitter en Fusion debe usar siempre la forma de esfera predeterminada para emitir partículas.",
+"respuesta_en": "False. The pEmitter node in Fusion has multiple shape options for emitting particles.",
+"respuesta_es": "Falso. El nodo pEmitter en Fusion tiene múltiples opciones de forma para emitir partículas.",
+"pagina": 69,
+"argumento_en": "The pEmitter node in Fusion has multiple shape options for emitting particles.",
+"argumento_es": "El nodo pEmitter de Fusion tiene múltiples opciones de forma para emitir partículas [3]."
+},
+{
+"libro": "Advanced Visual Effects in DaVinci Resolve 20",
+"leccion": 3,
+"pregunta_en": "What is the main advantage of using the Darken Apply Mode for sky replacement?",
+"pregunta_es": "¿Cuál es la principal ventaja de usar el modo de aplicación Darken (Oscurecer) para el reemplazo de cielo?",
+"respuesta_en": "It prioritizes darker pixels, blending the new sky without affecting brighter foreground elements.",
+"respuesta_es": "Prioriza los píxeles más oscuros, mezclando el nuevo cielo sin afectar a los elementos más brillantes del primer plano.",
+"pagina": 69,
+"argumento_en": "It prioritizes darker pixels, blending the new sky without affecting brighter foreground elements.",
+"argumento_es": "Prioriza los píxeles más oscuros, mezclando el nuevo cielo sin afectar a los elementos más brillantes del primer plano [3]."
+},
+{
+"libro": "Advanced Visual Effects in DaVinci Resolve 20",
+"leccion": 3,
+"pregunta_en": "Why should particle lifespans be adjusted in Fusion’s particle system? (Choose two)",
+"pregunta_es": "¿Por qué deberían ajustarse las vidas útiles (lifespans) de las partículas en el sistema de partículas de Fusion? (Elige dos)",
+"respuesta_en": "To ensure the particles remain visible throughout the entire scene, and to improve performance by eliminating unnecessary particles once they leave the frame.",
+"respuesta_es": "Para asegurar que las partículas sigan siendo visibles durante toda la escena, y para mejorar el rendimiento eliminando las partículas innecesarias una vez que salen del encuadre.",
+"pagina": 70,
+"argumento_en": "To ensure the particles remain visible throughout the entire scene, and to improve performance by eliminating unnecessary particles once they leave the frame",
+"argumento_es": "Para garantizar que las partículas sigan siendo visibles durante toda la escena, y para mejorar el rendimiento eliminando las partículas innecesarias una vez que salen del encuadre [4]."
+},
+{
+"libro": "Advanced Visual Effects in DaVinci Resolve 20",
+"leccion": 4,
+"pregunta_en": "True or False? 3D camera tracking is available only in DaVinci Resolve 20 Studio.",
+"pregunta_es": "¿Verdadero o falso? El rastreo de cámara 3D está disponible solo en DaVinci Resolve 20 Studio.",
+"respuesta_en": "True. 3D camera tracking is not available in the free version of DaVinci Resolve 20.",
+"respuesta_es": "Verdadero. El rastreo de cámara 3D no está disponible en la versión gratuita de DaVinci Resolve 20.",
+"pagina": 73,
+"argumento_en": "3D camera tracking is not available in the free version of DaVinci Resolve 20.",
+"argumento_es": "El seguimiento de cámara 3D no está disponible en la versión gratuita de DaVinci Resolve 20 [5]."
+},
+{
+"libro": "Advanced Visual Effects in DaVinci Resolve 20",
+"leccion": 4,
+"pregunta_en": "True or False? It’s OK for the 3D Camera Tracker to follow people and moving cars since they will help calculate the parallax.",
+"pregunta_es": "¿Verdadero o falso? Está bien que el rastreador de cámara 3D siga a personas y coches en movimiento, ya que ayudarán a calcular el paralaje.",
+"respuesta_en": "False. You only track objects that are “nailed to the set.” All other moving objects should be eliminated using a garbage matte.",
+"respuesta_es": "Falso. Solo se rastrean objetos que están \"clavados al set\". Todos los demás objetos en movimiento deben eliminarse mediante una máscara de descarte.",
+"pagina": 73,
+"argumento_en": "You only track objects that are “nailed to the set.” All other moving objects should be eliminated using a garbage matte.",
+"argumento_es": "Solo se rastrean los objetos que están \"fijados al decorado\". El resto de objetos en movimiento deben eliminarse mediante una máscara de recorte [5]."
+},
+{
+"libro": "Advanced Visual Effects in DaVinci Resolve 20",
+"leccion": 4,
+"pregunta_en": "What camera information should be entered into the Camera Tracker for solving to work?",
+"pregunta_es": "¿Qué información de la cámara debe introducirse en el rastreador de cámara para que el cálculo (solve) funcione?",
+"respuesta_en": "The lens focal length must be entered to solve the 3D track.",
+"respuesta_es": "Debe introducirse la distancia focal de la lente para resolver el rastreo 3D.",
+"pagina": 73,
+"argumento_en": "The lens focal length must be entered to solve the 3D track.",
+"argumento_es": "Debe introducirse la distancia focal del objetivo para resolver el seguimiento 3D [5]."
+},
+{
+"libro": "Advanced Visual Effects in DaVinci Resolve 20",
+"leccion": 4,
+"pregunta_en": "When setting the ground plane for a floor in the frame, should the coordinates be set to XY, XZ, or YZ?",
+"pregunta_es": "Al establecer el plano del suelo para un piso en el encuadre, ¿deben las coordenadas establecerse en XY, XZ o YZ?",
+"respuesta_en": "XZ are the appropriate coordinates for a ground plane because X represents the horizontal axis and Z represents depth.",
+"respuesta_es": "XZ son las coordenadas adecuadas para un plano de suelo porque X representa el eje horizontal y Z representa la profundidad.",
+"pagina": 73,
+"argumento_en": "XZ are the appropriate coordinates for a ground plane because X represents the horizontal axis and Z represents depth.",
+"argumento_es": "XZ son las coordenadas apropiadas para un plano de tierra porque X representa el eje horizontal y Z representa la profundidad [5]."
+},
+{
+"libro": "Advanced Visual Effects in DaVinci Resolve 20",
+"leccion": 4,
+"pregunta_en": "True or False? Adjusting the Maximum Solve Error and the Minimum Track Length can potentially improve a high solve error.",
+"pregunta_es": "¿Verdadero o falso? Ajustar el Error Máximo de Cálculo y la Longitud Mínima de Rastreo puede mejorar potencialmente un error de cálculo alto.",
+"respuesta_en": "True.",
+"respuesta_es": "Verdadero.",
+"pagina": 73,
+"argumento_en": "Adjusting the Maximum Solve Error and the Minimum Track Length can potentially improve a high solve error.",
+"argumento_es": "El ajuste del Error máximo de resolución y de la Longitud mínima de seguimiento puede mejorar potencialmente un error de resolución elevado [6]."
+},
+{
+"libro": "Advanced Visual Effects in DaVinci Resolve 20",
+"leccion": 5,
+"pregunta_en": "True or False? USD stands for “Universal Scene Description” and is used to organize and manage complex 3D scenes.",
+"pregunta_es": "¿Verdadero o falso? USD significa “Universal Scene Description” y se utiliza para organizar y gestionar escenas 3D complejas.",
+"respuesta_en": "True.",
+"respuesta_es": "Verdadero.",
+"pagina": 78,
+"argumento_en": "USD stands for “Universal Scene Description” and is used to organize and manage complex 3D scenes.",
+"argumento_es": "USD son las siglas de “Universal Scene Description” (descripción de escena universal) y se utiliza para organizar y gestionar escenas tridimensionales complejas [7]."
+},
+{
+"libro": "Advanced Visual Effects in DaVinci Resolve 20",
+"leccion": 5,
+"pregunta_en": "What is a “prim” in USD?",
+"pregunta_es": "¿Qué es un “prim” en USD?",
+"respuesta_en": "A basic unit (or “primitive”) representing an object or element in the scene.",
+"respuesta_es": "Una unidad básica (o “primitiva”) que representa un objeto o elemento en la escena.",
+"pagina": 78,
+"argumento_en": "A basic unit (or “primitive”) representing an object or element in the scene",
+"argumento_es": "Una unidad básica (o “primitiva”) que representa un objeto o elemento de la escena [7]."
+},
+{
+"libro": "Advanced Visual Effects in DaVinci Resolve 20",
+"leccion": 5,
+"pregunta_en": "True or False? You can use either a Renderer3D or a uRenderer to convert a USD scene into a 2D image.",
+"pregunta_es": "¿Verdadero o falso? Puedes usar un Renderer3D o un uRenderer para convertir una escena USD en una imagen 2D.",
+"respuesta_en": "False. You can only use a uRenderer to convert a USD scene into a 2D image.",
+"respuesta_es": "Falso. Solo puedes usar un uRenderer para convertir una escena USD en una imagen 2D.",
+"pagina": 78,
+"argumento_en": "You can only use a uRenderer to convert a USD scene into a 2D image.",
+"argumento_es": "Sólo se puede utilizar un uRenderer para convertir una escena USD en una imagen 2D [7]."
+},
+{
+"libro": "Advanced Visual Effects in DaVinci Resolve 20",
+"leccion": 5,
+"pregunta_en": "Which node converts a premultiplied alpha image to a straight alpha image for more accurate color adjustments?",
+"pregunta_es": "¿Qué nodo convierte una imagen con alfa premultiplicado en una imagen con alfa directo (straight) para realizar ajustes de color más precisos?",
+"respuesta_en": "Alpha Divide node.",
+"respuesta_es": "Nodo Alpha Divide.",
+"pagina": 79,
+"argumento_en": "Alpha Divide node converts a premultiplied alpha image to a straight alpha image.",
+"argumento_es": "El nodo Alpha Divide convierte una imagen alfa premultiplicada en una imagen alfa directa [8]."
+},
+{
+"libro": "Advanced Visual Effects in DaVinci Resolve 20",
+"leccion": 5,
+"pregunta_en": "True or False? A Transform node can be used to orient a USD element and set its rotation axis.",
+"pregunta_es": "¿Verdadero o falso? Se puede usar un nodo Transform para orientar un elemento USD y establecer su eje de rotación.",
+"respuesta_en": "False. A uTransform node must be used to orient a USD element and set its rotation axis.",
+"respuesta_es": "Falso. Debe usarse un nodo uTransform para orientar un elemento USD y establecer su eje de rotación.",
+"pagina": 79,
+"argumento_en": "A uTransform node must be used to orient a USD element and set its rotation axis.",
+"argumento_es": "Debe utilizarse un nodo uTransform para orientar un elemento USD y definir su eje de rotación [8]."
+}
+]

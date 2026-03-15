@@ -1,0 +1,200 @@
+[
+{
+"libro": "The Beginner's Guide to DaVinci Resolve 20",
+"leccion": 1,
+"pregunta_en": "Where do you access the projects for the current project library?",
+"pregunta_es": "¿Dónde se accede a los proyectos de la biblioteca de proyectos actual?",
+"respuesta_en": "Project Manager.",
+"respuesta_es": "a) Administrador de proyectos (Project Manager).",
+"pagina": 468,
+"argumento_en": "The Project Manager contains all the projects for the current project library.",
+"argumento_es": "El Administrador de proyectos contiene todos los proyectos de la biblioteca de proyectos actual [10]."
+},
+{
+"libro": "The Beginner's Guide to DaVinci Resolve 20",
+"leccion": 1,
+"pregunta_en": "What element is most often used to organize unedited clips in DaVinci Resolve?",
+"pregunta_es": "¿Qué elemento se utiliza más a menudo para organizar clips no editados en DaVinci Resolve?",
+"respuesta_en": "Bins.",
+"respuesta_es": "c) Bandejas (Bins).",
+"pagina": 468,
+"argumento_en": "Bins are most commonly used to organize imported clips in DaVinci Resolve.",
+"argumento_es": "Las bandejas son las que más se utilizan para organizar los clips importados en DaVinci Resolve [10]."
+},
+{
+"libro": "The Beginner's Guide to DaVinci Resolve 20",
+"leccion": 1,
+"pregunta_en": "Which zoom function allows you to manually zoom in and out of the timeline?",
+"pregunta_es": "¿Qué función de zoom permite acercar y alejar manualmente la línea de tiempo?",
+"respuesta_en": "Custom Zoom.",
+"respuesta_es": "c) Zoom personalizado (Custom Zoom).",
+"pagina": 468,
+"argumento_en": "Custom zoom allows you to change the zoom around the playhead manually.",
+"argumento_es": "El zoom personalizado permite cambiar manualmente el zoom alrededor del cabezal de reproducción [10]."
+},
+{
+"libro": "The Beginner's Guide to DaVinci Resolve 20",
+"leccion": 1,
+"pregunta_en": "Which of the following can be used to separate long clips into more manageable clips?",
+"pregunta_es": "¿Cuál de los siguientes puede utilizarse para separar clips largos en clips más manejables?",
+"respuesta_en": "Subclips.",
+"respuesta_es": "c) Subclips.",
+"pagina": 469,
+"argumento_en": "Subclips... can be used to separate long clips into more manageable clips.",
+"argumento_es": "Los subclips... pueden utilizarse para separar clips largos en clips más manejables [11]."
+},
+{
+"libro": "The Beginner's Guide to DaVinci Resolve 20",
+"leccion": 1,
+"pregunta_en": "What is the name given to an edit that uses a combination of two Out points and only one In point?",
+"pregunta_es": "¿Qué nombre recibe una edición que utiliza una combinación de dos puntos de salida y solo un punto de entrada?",
+"respuesta_en": "Backtimed edit.",
+"respuesta_es": "b) Edición de sincronización inversa (Backtimed edit).",
+"pagina": 469,
+"argumento_en": "Backtimed edit uses a combination of two Out points and only one In point.",
+"argumento_es": "La edición sincronizada hacia atrás utiliza una combinación de dos puntos de salida y sólo un punto de entrada [11]."
+},
+{
+"libro": "The Beginner's Guide to DaVinci Resolve 20",
+"leccion": 2,
+"pregunta_en": "Which timeline mode(s) allow you to add or remove frames from the start or end of a clip in the timeline?",
+"pregunta_es": "¿Qué modo(s) de la línea de tiempo permiten añadir o eliminar fotogramas del principio o el final de un clip?",
+"respuesta_en": "Selection mode and Trim Edit mode.",
+"respuesta_es": "a) Modo de selección y b) Modo de edición de recorte.",
+"pagina": 472,
+"argumento_en": "Selection and Trim Edit modes can be used to trim the start and end of a clip in the timeline.",
+"argumento_es": "Los modos de selección y de edición de recorte pueden utilizarse para recortar el principio y el final de un clip en la línea de tiempo [12]."
+},
+{
+"libro": "The Beginner's Guide to DaVinci Resolve 20",
+"leccion": 2,
+"pregunta_en": "Which timeline mode(s) allow you to slip a clip in the timeline?",
+"pregunta_es": "¿Qué modo(s) de la línea de tiempo permiten deslizar (slip) un clip?",
+"respuesta_en": "Trim Edit mode.",
+"respuesta_es": "b) Modo de edición de recorte (Trim Edit mode).",
+"pagina": 472,
+"argumento_en": "Trim Edit mode allows you to slip a clip in the timeline by adjusting the In and Out points of the clip at the same time.",
+"argumento_es": "El modo de edición de recorte permite deslizar un clip en la línea de tiempo ajustando los puntos de entrada y salida del clip al mismo tiempo [12]."
+},
+{
+"libro": "The Beginner's Guide to DaVinci Resolve 20",
+"leccion": 2,
+"pregunta_en": "True or False? The replace edit uses the position of the timeline and source viewer playheads but always ignores In and Out points in the timeline.",
+"pregunta_es": "¿Verdadero o falso? La edición de reemplazo utiliza la posición de los cabezales de la línea de tiempo y del visor, pero siempre ignora los puntos de entrada y salida de la línea de tiempo.",
+"respuesta_en": "False.",
+"respuesta_es": "Falso.",
+"pagina": 472,
+"argumento_en": "The replace edit will use In and Out points in the timeline to limit the amount replaced but will always ignore any In or Out points in the source viewer.",
+"argumento_es": "La edición de reemplazo utilizará los puntos de entrada y salida de la línea de tiempo para limitar la cantidad reemplazada, pero siempre ignorará cualquier punto de entrada o salida del visor de origen [12]."
+},
+{
+"libro": "The Beginner's Guide to DaVinci Resolve 20",
+"leccion": 3,
+"pregunta_en": "True or False? All dialogue clips should be normalized to -9 dBFS.",
+"pregunta_es": "¿Verdadero o falso? Todos los clips de diálogo deben normalizarse a -9 dBFS.",
+"respuesta_en": "False.",
+"respuesta_es": "Falso.",
+"pagina": 476,
+"argumento_en": "-9 dBFS is the default value for normalizing clips, but clips can be normalized to whatever level you think is appropriate.",
+"argumento_es": "-9 dBFS es el valor por defecto para normalizar clips, pero los clips pueden normalizarse al nivel que se considere apropiado [13]."
+},
+{
+"libro": "The Beginner's Guide to DaVinci Resolve 20",
+"leccion": 4,
+"pregunta_en": "What are the four main color grading controls that would be used for a primary grade?",
+"pregunta_es": "¿Cuáles son los cuatro controles principales de corrección de color que se utilizarían para una corrección primaria?",
+"respuesta_en": "Lift, Gamma, Gain, and Offset.",
+"respuesta_es": "Lift, Gamma, Gain y Offset.",
+"pagina": 478,
+"argumento_en": "The four main color grading controls are Lift, Gamma, Gain, and Offset.",
+"argumento_es": "Los cuatro controles principales de gradación de color son Lift, Gamma, Gain y Offset [4]."
+},
+{
+"libro": "The Beginner's Guide to DaVinci Resolve 20",
+"leccion": 4,
+"pregunta_en": "True or False? The RGB parade scope is useful for seeing if there is a color imbalance in the highlights, midtones, and shadows.",
+"pregunta_es": "¿Verdadero o falso? El visor de desfile RGB es útil para ver si hay un desequilibrio de color en las luces, medios tonos y sombras.",
+"respuesta_en": "True.",
+"respuesta_es": "Verdadero.",
+"pagina": 478,
+"argumento_en": "The parade shows both luminance levels and the levels of the individual RGB channels, so you can see if there is a color imbalance.",
+"argumento_es": "El desfile muestra tanto los niveles de luminancia como los niveles de los canales RGB individuales, de modo que se puede ver si hay un desequilibrio de color [4]."
+},
+{
+"libro": "The Beginner's Guide to DaVinci Resolve 20",
+"leccion": 6,
+"pregunta_en": "True or False? Appending a still will overwrite the current grade?",
+"pregunta_es": "¿Verdadero o falso? ¿Al añadir (append) una captura se sobrescribirá el etalonaje actual?",
+"respuesta_en": "False.",
+"respuesta_es": "Falso.",
+"pagina": 480,
+"argumento_en": "Appending a still will add the grade contained in the still to the current grade on the clip.",
+"argumento_es": "Al añadir una captura se agregará el etalonaje contenido en la captura al etalonaje actual del clip [5]."
+},
+{
+"libro": "The Beginner's Guide to DaVinci Resolve 20",
+"leccion": 7,
+"pregunta_en": "What type of information is used by Smart Bins?",
+"pregunta_es": "¿Qué tipo de información utilizan las bandejas inteligentes (Smart Bins)?",
+"respuesta_en": "Metadata.",
+"respuesta_es": "Metadatos.",
+"pagina": 487,
+"argumento_en": "Smart Bins utilize the metadata of clips.",
+"argumento_es": "Las bandejas inteligentes utilizan los metadatos de los clips [14]."
+},
+{
+"libro": "The Beginner's Guide to DaVinci Resolve 20",
+"leccion": 7,
+"pregunta_en": "Where is the Live Save option located?",
+"pregunta_es": "¿Dónde se encuentra la opción de guardado en vivo (Live Save)?",
+"respuesta_en": "User Preferences.",
+"respuesta_es": "a) Preferencias de usuario.",
+"pagina": 487,
+"argumento_en": "Live Save is located in the User Preferences, in the Project Save and Load group.",
+"argumento_es": "Live Save se encuentra en las Preferencias de usuario, en el grupo Project Save and Load [14]."
+},
+{
+"libro": "The Beginner's Guide to DaVinci Resolve 20",
+"leccion": 8,
+"pregunta_en": "How many audio scrollers can be displayed at the same time?",
+"pregunta_es": "¿Cuántos desplazadores de audio (scrollers) pueden mostrarse al mismo tiempo?",
+"respuesta_en": "Up to two audio scrollers.",
+"respuesta_es": "Hasta dos desplazadores de audio.",
+"pagina": 491,
+"argumento_en": "Up to two audio scrollers can be displayed at the same time, as well as one video scroller.",
+"argumento_es": "Se pueden mostrar hasta dos desplazadores de audio al mismo tiempo, así como un desplazador de vídeo [7]."
+},
+{
+"libro": "The Beginner's Guide to DaVinci Resolve 20",
+"leccion": 9,
+"pregunta_en": "What node would you use to blend two images?",
+"pregunta_es": "¿Qué nodo usarías para mezclar dos imágenes?",
+"respuesta_en": "A Merge node.",
+"respuesta_es": "Un nodo Merge.",
+"pagina": 496,
+"argumento_en": "A Merge node is used to composite two images.",
+"argumento_es": "Se utiliza un nodo Merge para componer dos imágenes [15]."
+},
+{
+"libro": "The Beginner's Guide to DaVinci Resolve 20",
+"leccion": 10,
+"pregunta_en": "True or False? The Media Manager manages clips, timelines, and bins.",
+"pregunta_es": "¿Verdadero o falso? El Administrador de medios (Media Manager) gestiona clips, líneas de tiempo y bandejas.",
+"respuesta_en": "False.",
+"respuesta_es": "Falso.",
+"pagina": 500,
+"argumento_en": "The Media Manager manages only media for your project or specific timelines; it does not manage bins.",
+"argumento_es": "El Administrador de medios sólo gestiona los medios de su proyecto o de líneas de tiempo específicas; no gestiona las bandejas [16]."
+},
+{
+"libro": "The Beginner's Guide to DaVinci Resolve 20",
+"leccion": 10,
+"pregunta_en": "What is the main difference between exporting a project and a project archive?",
+"pregunta_es": "¿Cuál es la principal diferencia entre exportar un proyecto y un archivo de proyecto (archive)?",
+"respuesta_en": "A project file contains no media, while a project archive contains all media required.",
+"respuesta_es": "Un archivo de proyecto no contiene medios, mientras que un archivo de proyecto contiene todos los medios necesarios.",
+"pagina": 500,
+"argumento_en": "A project will simply export a project file that contains no media. A project archive will export a folder and all media required.",
+"argumento_es": "Un proyecto simplemente exportará un archivo de proyecto que no contiene medios. Un archivo de proyecto exportará una carpeta y todos los medios necesarios [16]."
+}
+]

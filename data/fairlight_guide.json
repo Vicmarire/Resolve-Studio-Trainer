@@ -1,0 +1,200 @@
+[
+{
+"libro": "The Fairlight Audio Guide to DaVinci Resolve 20",
+"leccion": 1,
+"pregunta_en": "In the default layout, which Fairlight panels are displayed with the timeline? Choose all that apply.",
+"pregunta_es": "En el diseño predeterminado, ¿qué paneles de Fairlight se muestran con la línea de tiempo? Elige todos los que correspondan.",
+"respuesta_en": "Mixer and Monitoring panel (meters).",
+"respuesta_es": "Mezclador y Panel de monitorización (vúmetros).",
+"pagina": 121,
+"argumento_en": "Mixer and Monitoring panel (meters) are displayed with the timeline in the default layout.",
+"argumento_es": "El mezclador y el panel de monitorización se muestran con la línea de tiempo en el diseño predeterminado."
+},
+{
+"libro": "The Fairlight Audio Guide to DaVinci Resolve 20",
+"leccion": 1,
+"pregunta_en": "True or False? The viewer in the Fairlight page shows only the selected video tracks in the edit page.",
+"pregunta_es": "¿Verdadero o falso? El visor de la página de Fairlight muestra solo las pistas de vídeo seleccionadas en la página de edición.",
+"respuesta_en": "False. The viewer in the Fairlight page shows the video output of the edit page.",
+"respuesta_es": "Falso. El visor de la página de Fairlight muestra la salida de vídeo de la página de edición.",
+"pagina": 121,
+"argumento_en": "The viewer in the Fairlight page shows the video output of the edit page.",
+"argumento_es": "El visor de la página Fairlight muestra la salida de vídeo de la página de edición."
+},
+{
+"libro": "The Fairlight Audio Guide to DaVinci Resolve 20",
+"leccion": 1,
+"pregunta_en": "True or False? You can only change a clip’s volume level in the timeline or Inspector once it has been added to the timeline.",
+"pregunta_es": "¿Verdadero o falso? Solo se puede cambiar el nivel de volumen de un clip en la línea de tiempo o en el Inspector una vez que se ha añadido a la línea de tiempo.",
+"respuesta_en": "False. You can change the volume level of a selected media pool clip in the Inspector.",
+"respuesta_es": "Falso. Puedes cambiar el nivel de volumen de un clip seleccionado en el media pool desde el Inspector.",
+"pagina": 121,
+"argumento_en": "You can change the volume level of a selected media pool clip in the Inspector.",
+"argumento_es": "Puede cambiar el nivel de volumen de un clip del pool de medios seleccionado en el Inspector."
+},
+{
+"libro": "The Fairlight Audio Guide to DaVinci Resolve 20",
+"leccion": 1,
+"pregunta_en": "In the Fairlight page, which of the following can you do in the Tracks Index? (Choose all that apply.)",
+"pregunta_es": "En la página de Fairlight, ¿cuál de las siguientes acciones puedes realizar en el Índice de Pistas (Tracks Index)? (Elige todas las que correspondan).",
+"respuesta_en": "Select tracks, Reorder tracks, Show or Hide tracks with visibility controls, and Change a track’s name or color.",
+"respuesta_es": "Seleccionar pistas, reordenar pistas, mostrar u ocultar pistas con controles de visibilidad y cambiar el nombre o el color de una pista.",
+"pagina": 122,
+"argumento_en": "The Tracks Index allows you to select, reorder, show/hide, and change name/color of tracks.",
+"argumento_es": "El Índice de pistas le permite seleccionar, reordenar, mostrar/ocultar y cambiar el nombre/color de las pistas."
+},
+{
+"libro": "The Fairlight Audio Guide to DaVinci Resolve 20",
+"leccion": 1,
+"pregunta_en": "What shortcuts are used to mark the beginning and end of a section that you want to use for a source clip in the media pool?",
+"pregunta_es": "¿Qué atajos se utilizan para marcar el principio y el final de una sección que quieres usar para un clip de origen en el media pool?",
+"respuesta_en": "I and O.",
+"respuesta_es": "I y O.",
+"pagina": 122,
+"argumento_en": "Common shortcuts to mark In and Out points are I and O.",
+"argumento_es": "Los atajos habituales para marcar los puntos de entrada y salida son I y O."
+},
+{
+"libro": "The Fairlight Audio Guide to DaVinci Resolve 20",
+"leccion": 1,
+"pregunta_en": "What is audio scrubbing?",
+"pregunta_es": "¿Qué es el 'audio scrubbing'?",
+"respuesta_en": "Listening to a clip while moving the playhead forward, back, fast, slow, or anywhere in between.",
+"respuesta_es": "Escuchar un clip mientras se mueve el cabezal de reproducción hacia adelante, hacia atrás, rápido, lento o en cualquier punto intermedio.",
+"pagina": 123,
+"argumento_en": "Audio scrubbing is listening to a clip while moving the playhead forward, back, fast, slow, or anywhere in between.",
+"argumento_es": "El desplazamiento de audio consiste en escuchar un clip mientras se mueve el cabezal de reproducción hacia adelante, hacia atrás, rápido, lento o en cualquier punto intermedio."
+},
+{
+"libro": "The Fairlight Audio Guide to DaVinci Resolve 20",
+"leccion": 2,
+"pregunta_en": "How do you separate the viewer from the monitoring panel so that you can use it as a floating window? (Choose all that apply.)",
+"pregunta_es": "¿Cómo se separa el visor del panel de monitorización para poder usarlo como una ventana flotante? (Elige todas las que correspondan).",
+"respuesta_en": "In the Workspace menu, choose Fairlight Viewer > Floating, and Click the Floating Window button on the viewer.",
+"respuesta_es": "En el menú Workspace, elige Fairlight Viewer > Floating, y haz clic en el botón de ventana flotante del visor.",
+"pagina": 161,
+"argumento_en": "You can float the viewer via the Workspace menu or the floating window button.",
+"argumento_es": "Puede flotar el visor a través del menú Espacio de trabajo o del botón de ventana flotante."
+},
+{
+"libro": "The Fairlight Audio Guide to DaVinci Resolve 20",
+"leccion": 2,
+"pregunta_en": "When would you use Loop Jog?",
+"pregunta_es": "¿Cuándo usarías Loop Jog?",
+"respuesta_en": "To hear a sample-level preview of the audio while scrubbing the playhead.",
+"respuesta_es": "Para escuchar una vista previa a nivel de muestra (sample) del audio mientras se desplaza el cabezal de reproducción.",
+"pagina": 162,
+"argumento_en": "Loop jog scrubbing provides a sample-level preview of the audio while scrubbing the playhead.",
+"argumento_es": "El desplazamiento por jog en bucle proporciona una vista previa del audio a nivel de muestra mientras se desplaza el cabezal de reproducción."
+},
+{
+"libro": "The Fairlight Audio Guide to DaVinci Resolve 20",
+"leccion": 2,
+"pregunta_en": "In audio post-production, what name is given to describe editing dialogue where you split each character’s dialogue to a separate track?",
+"pregunta_es": "En posproducción de audio, ¿qué nombre recibe la edición de diálogos en la que se separa el diálogo de cada personaje en una pista distinta?",
+"respuesta_en": "Checkerboard editing.",
+"respuesta_es": "Edición en damero (Checkerboard editing).",
+"pagina": 162,
+"argumento_en": "This process is referred to as checkerboard editing because of the way the tracks look when the process is completed.",
+"argumento_es": "Este proceso se denomina edición en damero por el aspecto que presentan las pistas una vez finalizado."
+},
+{
+"libro": "The Fairlight Audio Guide to DaVinci Resolve 20",
+"leccion": 2,
+"pregunta_en": "True or False? During playback, the lowest audio track layer will always be audible.",
+"pregunta_es": "¿Verdadero o falso? Durante la reproducción, la capa de pista de audio más baja será siempre audible.",
+"respuesta_en": "False. The uppermost track layer is always audible.",
+"respuesta_es": "Falso. La capa de pista superior es la que siempre es audible.",
+"pagina": 163,
+"argumento_en": "The uppermost track layer is always audible.",
+"argumento_es": "La capa de pista superior siempre es audible."
+},
+{
+"libro": "The Fairlight Audio Guide to DaVinci Resolve 20",
+"leccion": 2,
+"pregunta_en": "True or False? Changing a track from a multichannel format to a mono format permanently deletes any unexposed channels in the clip.",
+"pregunta_es": "¿Verdadero o falso? Cambiar una pista de un formato multicanal a un formato mono elimina permanentemente cualquier canal no expuesto en el clip.",
+"respuesta_en": "False. Changing a track’s format never deletes the unexposed channels of the timeline clips.",
+"respuesta_es": "Falso. Cambiar el formato de una pista nunca elimina los canales no expuestos de los clips de la línea de tiempo.",
+"pagina": 163,
+"argumento_en": "Changing a track’s format never deletes the unexposed channels of the timeline clips.",
+"argumento_es": "El cambio de formato de una pista nunca borra los canales no expuestos de los clips de la línea de tiempo."
+},
+{
+"libro": "The Fairlight Audio Guide to DaVinci Resolve 20",
+"leccion": 3,
+"pregunta_en": "Where can you find and edit the Markers list in the Fairlight page? (Choose all that apply.)",
+"pregunta_es": "¿Dónde puedes encontrar y editar la lista de marcadores en la página de Fairlight? (Elige todas las que correspondan).",
+"respuesta_en": "Mark menu and Markers index.",
+"respuesta_es": "Menú Mark e Índice de Marcadores (Markers index).",
+"pagina": 182,
+"argumento_en": "Markers can be found and edited in the Mark menu and the Markers index.",
+"argumento_es": "Los marcadores se pueden encontrar y editar en el menú de marcas y en el índice de marcadores."
+},
+{
+"libro": "The Fairlight Audio Guide to DaVinci Resolve 20",
+"leccion": 3,
+"pregunta_en": "Which modifier functions are unique to the Focus mode multi-tool? (Choose all that apply.)",
+"pregunta_es": "¿Qué funciones modificadoras son exclusivas de la multiherramienta de modo Enfoque (Focus mode)? (Elige todas las que correspondan).",
+"respuesta_en": "You can solo-scrub clips in the timeline and You can snap the head or tail of a clip to the edit point.",
+"respuesta_es": "Puedes realizar un 'solo-scrub' de clips en la línea de tiempo y puedes ajustar el inicio (head) o el final (tail) de un clip al punto de edición.",
+"pagina": 182,
+"argumento_en": "Focus mode multi-tool allows solo-scrubbing and snapping clip head/tail to edit points.",
+"argumento_es": "La multiherramienta en modo Enfoque permite el solo-desplazamiento y el ajuste de la cabeza/cola del clip a los puntos de edición."
+},
+{
+"libro": "The Fairlight Audio Guide to DaVinci Resolve 20",
+"leccion": 6,
+"pregunta_en": "Which Fairlight FX plug-in is designed to remove powerline hum from an audio clip?",
+"pregunta_es": "¿Qué plug-in de Fairlight FX está diseñado para eliminar el zumbido de la línea eléctrica de un clip de audio?",
+"respuesta_en": "De-Hummer.",
+"respuesta_es": "De-Hummer.",
+"pagina": 209,
+"argumento_en": "De-Hummer is designed to remove powerline hum from an audio clip.",
+"argumento_es": "De-Hummer ... diseñado para eliminar el zumbido de la red eléctrica de un clip de audio."
+},
+{
+"libro": "The Fairlight Audio Guide to DaVinci Resolve 20",
+"leccion": 8,
+"pregunta_en": "What type of bus can you use to apply one plug-in, such as Reverb, to any track in the timeline?",
+"pregunta_es": "¿Qué tipo de bus puedes usar para aplicar un plug-in, como Reverberación, a cualquier pista de la línea de tiempo?",
+"respuesta_en": "Auxiliary bus.",
+"respuesta_es": "Bus auxiliar (Auxiliary bus).",
+"pagina": 230,
+"argumento_en": "An Auxiliary bus can be used to apply one plug-in to any track in the timeline.",
+"argumento_es": "Se puede utilizar un bus auxiliar para aplicar un plug-in a cualquier pista de la línea de tiempo."
+},
+{
+"libro": "The Fairlight Audio Guide to DaVinci Resolve 20",
+"leccion": 8,
+"pregunta_en": "True or False? New DaVinci Resolve projects open in the default Flex Bus format.",
+"pregunta_es": "¿Verdadero o falso? Los nuevos proyectos de DaVinci Resolve se abren en el formato Flex Bus predeterminado.",
+"respuesta_en": "True.",
+"respuesta_es": "Verdadero.",
+"pagina": 231,
+"argumento_en": "New DaVinci Resolve projects open in the default Flex Bus format.",
+"argumento_es": "Los nuevos proyectos de DaVinci Resolve se abren en el formato Flex Bus predeterminado."
+},
+{
+"libro": "The Fairlight Audio Guide to DaVinci Resolve 20",
+"leccion": 12,
+"pregunta_en": "What factor determines the channel configuration of a bounced mix?",
+"pregunta_es": "¿Qué factor determina la configuración de canales de una mezcla rebotada (bounced)?",
+"respuesta_en": "The channel format of the bus that is bounced.",
+"respuesta_es": "El formato de canal del bus que se está rebotando.",
+"pagina": 244,
+"argumento_en": "A bounced mix follows the channel format of the bus selected in the Bounce Mix to Track window.",
+"argumento_es": "Una mezcla rebotada sigue el formato de canal del bus seleccionado en la ventana Bounce Mix to Track."
+},
+{
+"libro": "The Fairlight Audio Guide to DaVinci Resolve 20",
+"leccion": 11,
+"pregunta_en": "What does the 2 represent if you are monitoring a Dolby Atmos 7.1.2 master file?",
+"pregunta_es": "¿Qué representa el 2 si estás monitorizando un archivo maestro Dolby Atmos 7.1.2?",
+"respuesta_en": "Overhead channels.",
+"respuesta_es": "Canales de altura (Overhead channels).",
+"pagina": 254,
+"argumento_en": "The 2 in 7.1.2 represents the overhead channels.",
+"argumento_es": "El 2 en 7.1.2 representa los canales superiores."
+}
+]
